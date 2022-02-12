@@ -1,2 +1,2 @@
 # Sentiment Analysis
-Comparison of four sentiment analysis classification methods for Twitter data.
+Comparison of 4 sentiment analysis classification methods for Twitter data.
