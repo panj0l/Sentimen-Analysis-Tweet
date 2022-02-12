@@ -1,2 +1,2 @@
-# panjibintoro09
-Just my portofolio
+# Sentiment Analysis
+Comparison of four sentiment analysis classification methods for Twitter data.
